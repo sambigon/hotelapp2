@@ -10,7 +10,7 @@
 
         <preference name="phonegap-version" value="3.7.0" />
 
-        <name>hotelapp2</name>
+        <name>HotelApp</name>
 
         <description>
             Aplicación de prueba para hoteles. 
